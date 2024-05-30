@@ -44,6 +44,8 @@
 		D835AA532C010897002586DA /* DemoTaskListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoTaskListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D835AA572C010897002586DA /* DemoTaskListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoTaskListUITests.swift; sourceTree = "<group>"; };
 		D835AA592C010897002586DA /* DemoTaskListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoTaskListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D835AA662C0109B3002586DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D83E69962C07C4B90066624A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,8 @@
 		D835AA302C010896002586DA = {
 			isa = PBXGroup;
 			children = (
+				D83E69962C07C4B90066624A /* .gitignore */,
+				D835AA662C0109B3002586DA /* README.md */,
 				D835AA3B2C010896002586DA /* DemoTaskList */,
 				D835AA4C2C010897002586DA /* DemoTaskListTests */,
 				D835AA562C010897002586DA /* DemoTaskListUITests */,
