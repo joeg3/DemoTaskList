@@ -7,13 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D80BC2792EE2011300BB6F32 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D80BC2782EE2010B00BB6F32 /* README.md */; };
 		D80BC27B2EE2013700BB6F32 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D80BC27A2EE2013000BB6F32 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D80BC26A2EE200EB00BB6F32 /* DemoTaskList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoTaskList.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D80BC2782EE2010B00BB6F32 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.md; sourceTree = "<group>"; };
 		D80BC27A2EE2013000BB6F32 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -40,7 +38,6 @@
 			isa = PBXGroup;
 			children = (
 				D80BC27A2EE2013000BB6F32 /* .gitignore */,
-				D80BC2782EE2010B00BB6F32 /* README.md */,
 				D80BC26C2EE200EB00BB6F32 /* DemoTaskList */,
 				D80BC26B2EE200EB00BB6F32 /* Products */,
 			);
@@ -129,7 +126,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D80BC2792EE2011300BB6F32 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
